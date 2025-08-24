@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+.env.local
+*.sqlite3
+
+# Logs
+logs/
+*.log
+insert_log_monitor.txt
+
+# Coverage / testing
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Distribution / build
+build/
+dist/
+*.egg-info/
